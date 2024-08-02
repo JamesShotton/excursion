@@ -47,5 +47,35 @@ html {
     font-size: 1.3125rem;
     color: gray;
     padding: 15px 0;
+}
 
+
+/* Footer Section */
+
+.footer {
+    text-align: center;
+}
+
+.footer img {
+    padding-top: 15px;
+}
+
+.footer h1 {
+    color: white;
+    padding-top: 20px;
+    font-size: 2.625rem;
+    font-weight: 300;
+    font-family: Verdana;
+}
+
+.footer a {
+    color: aquamarine;
+    font-family: Verdana;
+    font-size: 1rem;
+}
+
+.footer h3 {
+    text-align: right;
+    color: gray;
+    font-family: Verdana;
 }
