@@ -4,12 +4,15 @@ html {
     box-sizing: border-box;
 }
 
+/* Header Section */
+
 
 .header {
     text-align: center;
 }
 
 .header h1 {
+    display: block;
     font-size: 3.125rem;
     font-family: Verdana;
     font-weight: normal;
@@ -17,7 +20,32 @@ html {
 }
 
 .header a {
+    display: block;
+    padding-bottom: 25px;
     color: aquamarine;
     font-size: 1rem;
     font-family: Verdana;
+}
+
+
+/* Camping Section */
+
+.camping {
+    text-align: center;
+}
+
+.camping h1 {
+    padding-top: 25px;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 2.625rem;
+    color: white
+}
+
+.camping h3 {
+    font-family: Verdana;
+    font-size: 1.3125rem;
+    color: gray;
+    padding: 15px 0;
+
 }
